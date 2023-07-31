@@ -1,0 +1,23 @@
+body{
+  background-image: linear-gradient(to right, #ff0844 0%, #ffb199 100%);
+}
+h1{
+  color:rgb(20, 1, 52);
+}
+h2{
+  color: blue;
+}
+.a{
+  min-width:50%;
+  min-height: 100%;
+}
+.b{
+      min-width:50%;
+      min-height: 100%;
+}
+.d{
+  padding: 30px;
+}
+.h{
+   padding-left: 40px;
+}
